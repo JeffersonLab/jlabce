@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: jeffersonlab/jlabce
+From: jeffersonlab/jlabce:2.1
 
 %files
 
